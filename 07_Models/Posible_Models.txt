@@ -1,0 +1,9 @@
+Possible model types
+
+	Isolation Forest
+
+	Random Forest
+
+	LSTM temporal prediction
+
+	Spatial clustering

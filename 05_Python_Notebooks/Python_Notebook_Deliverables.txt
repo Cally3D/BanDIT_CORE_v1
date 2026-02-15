@@ -1,0 +1,17 @@
+05_Python_Notebooks/
+│
+├── Week1_Data_Preprocessing.ipynb
+├── Week2_Baseline_Normal_Model.ipynb
+├── Week3_Anomaly_Detection.ipynb
+├── Week4_Predictive_Modeling.ipynb
+├── Spatial_Statistics.ipynb
+├── Feature_Engineering.ipynb
+└── Validation_And_Testing.ipynb
+
+Each Notebook should contain:
+
+1. Objective
+2. Dataset Input
+3. Processing Logic
+4. Visualization
+5. Export Outputs
